@@ -1,0 +1,30 @@
+{
+  "name": "tensorflowjs-real-time-object-detection",
+  "version": "1.0.0",
+  "description": "Gs Hoang Anh - Tensorflow Detection",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.15.0",
+    "@tensorflow/tfjs-converter": "^3.15.0",
+    "@tensorflow/tfjs-core": "^3.15.0",
+    "@tensorflow/tfjs-node": "^3.15.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-magic-dropzone": "^1.0.1",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
