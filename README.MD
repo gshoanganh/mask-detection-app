@@ -12,7 +12,7 @@ A Mask detector was trained as a demo, it will produce results similar to the sh
 
 ## Getting started
 
-- The first: `git clone https://github.com/gshoanganh/mask-detection-app.git`
+- The first: `git clone https://github.com/gshoanganh/mask-detection-app`
 <!-- - The second: `git clone https://github.com/gshoanganh/mask-detection.git` -->
 
 The model saved at `models/mask-detector` was trained using the [mask-dataset](https://github.com/gshoanganh/mask-detection) available on JupyterNotebook:
